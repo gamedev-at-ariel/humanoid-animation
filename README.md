@@ -1,2 +1,14 @@
-# humanoid-animation
- How to combine human avatars from Blender with humanoid animations from Mixamo
+<div dir="rtl" lang="he">
+
+# אנימציה אנושית
+פרוייקט המדגים איך לוקחים מודל תלת-ממדי של אדם שנוצר ב-Blender,
+מלבישים עליו אנימציות שונות מאתר Mixamo,
+בונים מכונת-מצבים של אנימציות שונות, 
+מפעילים את המכונה מתוך הקוד ע"י שינוי משתני-אנימציה,
+ומפעילים קוד מתוך המכונה ע"י הפעלת אירועי-אנימציה.
+
+מאת: יצחק שליסל
+
+[המצגת בדרופבוקס (כ-350 מגה-בייט)](http://dropbox.com/s/89mlqrtlytwraka/%D7%AA%D7%9C%D7%AA%20%D7%9E%D7%99%D7%9E%D7%93%20%D7%95%D7%90%D7%A0%D7%99%D7%9E%D7%A6%D7%99%D7%94.pptx?dl=0)
+
+</div>
